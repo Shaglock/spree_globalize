@@ -7,6 +7,6 @@ module SpreeGlobalize
     #
     # e.g. If available_locales are [:en, :es] admin can translate model records
     # to spanish as well. Once it's done :es can be added to supported_locales
-    preference :supported_locales, :array, default: [:en]
+    preference :supported_locales, :array, default: [:en,:ru]
   end
 end

@@ -1,0 +1,17 @@
+ru:
+  spree:
+    # К общему спри
+    delete_from_taxon: Удалить из таксона
+    editing_resource: Редактирование %{resource}
+    # к спри i18n? к глобалайзу?
+    i18n:
+      supported_locales: Поддерживаемые языки
+      fields: Поля
+      translations: Переводы
+      only_complete: Только переведенные
+      only_incomplete: Только непереведенные
+      select_locale: Выберите язык
+    globalize:
+      locales_displayed_on_translation_forms: Языки, отображаемые на формах
+      no_translations_for_criteria: Переводы для данных критериев отсутствуют
+      store_translations: Перевод настроек магазина

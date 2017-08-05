@@ -24,8 +24,6 @@ Gem::Specification.new do |s|
   s.has_rdoc = false
 
   s.add_runtime_dependency 'friendly_id-globalize'
-  s.add_runtime_dependency 'globalize', '~> 5.0.0'
-  s.add_runtime_dependency 'spree_i18n'
 
   s.add_development_dependency 'byebug'
   s.add_development_dependency 'capybara', '~> 2.4.4'
